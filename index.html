@@ -25,11 +25,11 @@
 			id: 'mapbox.streets'
 		}).addTo(mymap);
 
-		var marker= new L.Marker([51.5, -0.09])
+		/*var marker= new L.Marker([51.5, -0.09])
 			.bindPopup('<div id = "animation"></div>')
 			.addTo(mymap);
-		//L.marker([51.5, -0.09]).addTo(mymap)
-		//	.bindPopup("<iframe width="560" height="315" src='http://www.youtube.com/embed/StOTSqGxuBY?autoplay=1&loop=1&playlist=StOTSqGxuBY&controls=0' frameborder="0" allowfullscreen></iframe>").openPopup();
+		L.marker([51.5, -0.09]).addTo(mymap)
+			.bindPopup("<iframe width="560" height="315" src='http://www.youtube.com/embed/StOTSqGxuBY?autoplay=1&loop=1&playlist=StOTSqGxuBY&controls=0' frameborder="0" allowfullscreen></iframe>").openPopup();
 		document.getElementById('animation');
 		
 		mymap.on('popupopen', function() {
@@ -37,7 +37,7 @@
 		})
 		mymap.on('popupclose', function() {
 			document.getElementById('animation')
-		})
+		}) */
 		L.circle([51.508, -0.11], 500, {
 			color: 'red',
 			fillColor: '#f03',
@@ -51,7 +51,10 @@
 		]).addTo(mymap).bindPopup("I am a polygon.");
 
 
-		var popup = L.popup();
+		var popup = L.popup()
+			.setLatLng([51.5, -0.09])
+			.setContent('<p>Yo, this is a <b>test</b>.</p>')
+			.openOn(mymap)
 
 		function onMapClick(e) {
 			popup
@@ -64,9 +67,9 @@
 		mymap.on('popupclose', function(){
 			$("a#video").fancybox();
 		})
-	<a id ="video" href = "https://www.nps.gov/webcams-romo/alpine_visitor_center.jpg">
-	<img src = "https://www.nps.gov/webcams-romo/alpine_visitor_center.jpg" alt = ""/>
-	</a>
+	//<a id ="video" href = "https://www.nps.gov/webcams-romo/alpine_visitor_center.jpg">
+	//<img src = "https://www.nps.gov/webcams-romo/alpine_visitor_center.jpg" alt = ""/>
+	//</a>
 
 	</script>
 
