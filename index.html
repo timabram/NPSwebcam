@@ -60,7 +60,7 @@
 		var park1 = new L.marker([38.352105, -119.934996]).addTo(mymap);
 		//var park1 = new L.marker([35.882222,14.522222]).addTo(mymap);
 		//var park1 = new L.marker([35.840854,14.484347]).addTo(mymap);
-		park1.on('mouseover', function(e) {
+		park1.on('click', function(e) {
 		  //open popup;
 		  var popup = L.popup()
 		    .setLatLng(e.latlng) //(assuming e.latlng returns the coordinates of the event)
