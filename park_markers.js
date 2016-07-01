@@ -1,9 +1,7 @@
-var park1 = new L.marker([40.3427932,-105.6836389]).addTo(mymap)
-                .opacity(0.5)
-                .title("click me!!");
-var park2 = new L.marker([35.3881141,-94.4299203]).addTo(mymap)
-                .opacity(0.5)
-                .title("click me too!!");
+var park1 = new L.marker([40.3427932,-105.6836389], opacity = 0.5, title = "click me!!").addTo(mymap);
+
+var park2 = new L.marker([35.3881141,-94.4299203], opacity = 0.4, title = "click me too !!").addTo(mymap);
+
 var park3 = new L.marker([44.4279684,-110.5884542]).addTo(mymap);
 var park4 = new L.marker([37.8651011,-119.5383294]).addTo(mymap);
 var park5 = new L.marker([46.8799663,-121.7269094]).addTo(mymap);
