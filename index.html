@@ -25,10 +25,19 @@
 			id: 'mapbox.streets'
 		}).addTo(mymap);
 
-
-		L.marker([51.5, -0.09]).addTo(mymap)
-			.bindPopup("<iframe width="560" height="315" src='http://www.youtube.com/embed/StOTSqGxuBY?autoplay=1&loop=1&playlist=StOTSqGxuBY&controls=0' frameborder="0" allowfullscreen></iframe>").openPopup();
-
+		var marker= new L.Marker([51.5, -0.09])
+			.bindPopup('<div id = "animation"></div>')
+			.addTo(mymap);
+		//L.marker([51.5, -0.09]).addTo(mymap)
+		//	.bindPopup("<iframe width="560" height="315" src='http://www.youtube.com/embed/StOTSqGxuBY?autoplay=1&loop=1&playlist=StOTSqGxuBY&controls=0' frameborder="0" allowfullscreen></iframe>").openPopup();
+		document.getElementById('animation');
+		
+		mymap.on('popupopen', function() {
+			document.getElementById('animation')
+		})
+		mymap.on('popupclose', function() {
+			document.getElementById('animation')
+		})
 		L.circle([51.508, -0.11], 500, {
 			color: 'red',
 			fillColor: '#f03',
@@ -52,9 +61,16 @@
 		}
 
 		mymap.on('click', onMapClick);
+		mymap.on('popupclose', function(){
+			$("a#video").fancybox();
+		})
 
 	</script>
-	
+
+<a id ="video" href = "https://www.nps.gov/webcams-romo/alpine_visitor_center.jpg">
+	<img src = "https://www.nps.gov/webcams-romo/alpine_visitor_center.jpg" alt = ""/>
+</a>
+
 <h1> TEST </h1>
 
 <iframe frameborder="0" width="700" height="467" src="http://player.vimeo.com/video/173070876?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1&amp;autopause=0&amp;color=fdea2e"></iframe>
