@@ -10,7 +10,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/MUV-waGczzs' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/MUV-waGczzs?autoplay=1&loop=1&playlist=MUV-waGczzs&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -24,7 +24,7 @@
             }, 
             "properties": {
                 "name": "National Mall and Memorial Parks", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/oU56jOMdNas' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/oU56jOMdNas?autoplay=1&loop=1&playlist=oU56jOMdNas&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -38,7 +38,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Je-0z6Z1P9M' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/Je-0z6Z1P9M?autoplay=1&loop=1&playlist=Je-0z6Z1P9M&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -52,7 +52,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/tG5YRqeVTVQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/tG5YRqeVTVQ?autoplay=1&loop=1&playlist=tG5YRqeVTVQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -66,7 +66,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DLwli6O0C0s' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/DLwli6O0C0s?autoplay=1&loop=1&playlist=DLwli6O0C0s&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -80,7 +80,7 @@
             }, 
             "properties": {
                 "name": "Denali National Park & Preserve", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/GoCgsXFs2CQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/GoCgsXFs2CQ?autoplay=1&loop=1&playlist=GoCgsXFs2CQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -94,7 +94,7 @@
             }, 
             "properties": {
                 "name": "Lassen Volcanic National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/6V2SWS_aQFY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/6V2SWS_aQFY?autoplay=1&loop=1&playlist=6V2SWS_aQFY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -108,7 +108,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/KMru0qyklFU' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/KMru0qyklFU?autoplay=1&loop=1&playlist=KMru0qyklFU&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -122,7 +122,7 @@
             }, 
             "properties": {
                 "name": "Arches National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/mSnFmf-27V8' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/mSnFmf-27V8?autoplay=1&loop=1&playlist=mSnFmf-27V8&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -136,7 +136,7 @@
             }, 
             "properties": {
                 "name": "Lassen Volcanic National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Xjg1KUugjhg' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/Xjg1KUugjhg?autoplay=1&loop=1&playlist=Xjg1KUugjhg&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -150,7 +150,7 @@
             }, 
             "properties": {
                 "name": "Lincoln Memorial", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SXBOzOJ3oOQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/SXBOzOJ3oOQ?autoplay=1&loop=1&playlist=SXBOzOJ3oOQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -164,7 +164,7 @@
             }, 
             "properties": {
                 "name": "Homestead National Monument of America", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/bqJcAvy558g' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/bqJcAvy558g?autoplay=1&loop=1&playlist=bqJcAvy558g&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -178,7 +178,7 @@
             }, 
             "properties": {
                 "name": "Saint-Gaudens National Historic Site", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/nqpml_2dnlM' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/nqpml_2dnlM?autoplay=1&loop=1&playlist=nqpml_2dnlM&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -192,7 +192,7 @@
             }, 
             "properties": {
                 "name": "Isle Royale National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/8p3orZ7xTto' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/8p3orZ7xTto?autoplay=1&loop=1&playlist=8p3orZ7xTto&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -206,7 +206,7 @@
             }, 
             "properties": {
                 "name": "Grand Teton National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/QHk82OPTnzQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/QHk82OPTnzQ?autoplay=1&loop=1&playlist=QHk82OPTnzQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -220,7 +220,7 @@
             }, 
             "properties": {
                 "name": "Whiskeytown National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/D44zYiZ9yu0' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/D44zYiZ9yu0?autoplay=1&loop=1&playlist=D44zYiZ9yu0&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -234,7 +234,7 @@
             }, 
             "properties": {
                 "name": "Big Hole National Battlefield", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Gye4Yy3r4Cg' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/Gye4Yy3r4Cg?autoplay=1&loop=1&playlist=Gye4Yy3r4Cg&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -248,7 +248,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/xPSG7pEVWH4' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/xPSG7pEVWH4?autoplay=1&loop=1&playlist=xPSG7pEVWH4&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -262,7 +262,7 @@
             }, 
             "properties": {
                 "name": "Glen Canyon National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/6Az6Ha8c2To' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/6Az6Ha8c2To?autoplay=1&loop=1&playlist=6Az6Ha8c2To&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -276,7 +276,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/uocZerXtBXY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/uocZerXtBXY?autoplay=1&loop=1&playlist=uocZerXtBXY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -290,7 +290,7 @@
             }, 
             "properties": {
                 "name": "Black Canyon Of The Gunnison National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DQuLl0tC1jk' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/DQuLl0tC1jk?autoplay=1&loop=1&playlist=DQuLl0tC1jk&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -304,7 +304,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DQjGYOUuj1Q' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/DQjGYOUuj1Q?autoplay=1&loop=1&playlist=DQjGYOUuj1Q&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -318,7 +318,7 @@
             }, 
             "properties": {
                 "name": "Grand Teton National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/_g2RJxUNbfQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/_g2RJxUNbfQ?autoplay=1&loop=1&playlist=_g2RJxUNbfQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -332,7 +332,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/if9SNM5qdo8' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/if9SNM5qdo8?autoplay=1&loop=1&playlist=if9SNM5qdo8&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -346,7 +346,7 @@
             }, 
             "properties": {
                 "name": "Lassen Volcanic National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/oVlwwTp-jcQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/oVlwwTp-jcQ?autoplay=1&loop=1&playlist=oVlwwTp-jcQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -360,7 +360,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/kqgmp8HpcKI' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/kqgmp8HpcKI?autoplay=1&loop=1&playlist=kqgmp8HpcKI&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -374,7 +374,7 @@
             }, 
             "properties": {
                 "name": "Lassen Volcanic National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ffFpDtdXY9M' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/ffFpDtdXY9M?autoplay=1&loop=1&playlist=ffFpDtdXY9M&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -388,7 +388,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/9Lbi7D5uxbo' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/9Lbi7D5uxbo?autoplay=1&loop=1&playlist=9Lbi7D5uxbo&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -402,7 +402,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/UvW-HTr11eY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/UvW-HTr11eY?autoplay=1&loop=1&playlist=UvW-HTr11eY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -416,7 +416,7 @@
             }, 
             "properties": {
                 "name": "Rocky Mountain National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/t5eKsX0SR3w' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/t5eKsX0SR3w?autoplay=1&loop=1&playlist=t5eKsX0SR3w&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -430,7 +430,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/jhZetmRWqR4' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/jhZetmRWqR4?autoplay=1&loop=1&playlist=jhZetmRWqR4&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -444,7 +444,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/kytxgFgtXZQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/kytxgFgtXZQ?autoplay=1&loop=1&playlist=kytxgFgtXZQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -458,7 +458,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/LLFSKq2dM5c' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/LLFSKq2dM5c?autoplay=1&loop=1&playlist=LLFSKq2dM5c&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -472,7 +472,7 @@
             }, 
             "properties": {
                 "name": "Rocky Mountain National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/AEKMssR6Cgg' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/AEKMssR6Cgg?autoplay=1&loop=1&playlist=AEKMssR6Cgg&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -486,7 +486,7 @@
             }, 
             "properties": {
                 "name": "John Day Fossil Beds National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/GvExbx2kGZM' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/GvExbx2kGZM?autoplay=1&loop=1&playlist=GvExbx2kGZM&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -500,7 +500,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/FiYzUeJTf3M' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/FiYzUeJTf3M?autoplay=1&loop=1&playlist=FiYzUeJTf3M&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -514,7 +514,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/n9M2dkBbhMI' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/n9M2dkBbhMI?autoplay=1&loop=1&playlist=n9M2dkBbhMI&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -528,7 +528,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/TXWuPEfc8ho' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/TXWuPEfc8ho?autoplay=1&loop=1&playlist=TXWuPEfc8ho&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -542,7 +542,7 @@
             }, 
             "properties": {
                 "name": "Shenandoah National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/w47FrIVzeYw' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/w47FrIVzeYw?autoplay=1&loop=1&playlist=w47FrIVzeYw&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -556,7 +556,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/LLcVEsimi1w' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/LLcVEsimi1w?autoplay=1&loop=1&playlist=LLcVEsimi1w&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -570,7 +570,7 @@
             }, 
             "properties": {
                 "name": "Great Sand Dunes National Park & Preserve", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/-M8fqjcuMNU' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/-M8fqjcuMNU?autoplay=1&loop=1&playlist=-M8fqjcuMNU&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -584,7 +584,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/OxHPnolMTwc' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/OxHPnolMTwc?autoplay=1&loop=1&playlist=OxHPnolMTwc&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -598,7 +598,7 @@
             }, 
             "properties": {
                 "name": "Nez Perce National Historical Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/HjWJxgAsIFk' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/HjWJxgAsIFk?autoplay=1&loop=1&playlist=HjWJxgAsIFk&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -612,7 +612,7 @@
             }, 
             "properties": {
                 "name": "Olympic National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/XWNhBwraKPo' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/XWNhBwraKPo?autoplay=1&loop=1&playlist=XWNhBwraKPo&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -626,7 +626,7 @@
             }, 
             "properties": {
                 "name": "Rocky Mountain National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/iFWWJRFLl14' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/iFWWJRFLl14?autoplay=1&loop=1&playlist=iFWWJRFLl14&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -640,7 +640,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/IY9nERlEsAY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/IY9nERlEsAY?autoplay=1&loop=1&playlist=IY9nERlEsAY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -654,7 +654,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/jPBStC0FxNg' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/jPBStC0FxNg?autoplay=1&loop=1&playlist=jPBStC0FxNg&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -668,7 +668,7 @@
             }, 
             "properties": {
                 "name": "Glen Canyon National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/4LTrpSNA924' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/4LTrpSNA924?autoplay=1&loop=1&playlist=4LTrpSNA924&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -682,7 +682,7 @@
             }, 
             "properties": {
                 "name": "Saint-Gaudens National Historic Site", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/8jXA0Admz2o' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/8jXA0Admz2o?autoplay=1&loop=1&playlist=8jXA0Admz2o&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -696,7 +696,7 @@
             }, 
             "properties": {
                 "name": "New River Gorge National River", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/YKvub0r3Vsw' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/YKvub0r3Vsw?autoplay=1&loop=1&playlist=YKvub0r3Vsw&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -710,7 +710,7 @@
             }, 
             "properties": {
                 "name": "Crater Lake National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/bfTEhL3qBw8' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/bfTEhL3qBw8?autoplay=1&loop=1&playlist=bfTEhL3qBw8&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -724,7 +724,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/8AazDlIlG-E' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/8AazDlIlG-E?autoplay=1&loop=1&playlist=8AazDlIlG-E&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -738,7 +738,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/wvsJfrABih4' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/wvsJfrABih4?autoplay=1&loop=1&playlist=wvsJfrABih4&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -752,7 +752,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/mVyeTmiroF4' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/mVyeTmiroF4?autoplay=1&loop=1&playlist=mVyeTmiroF4&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -766,7 +766,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/q16Uqz5_HOg' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/q16Uqz5_HOg?autoplay=1&loop=1&playlist=q16Uqz5_HOg&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -780,7 +780,7 @@
             }, 
             "properties": {
                 "name": "John Day Fossil Beds National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/LhCbRprLxAY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/LhCbRprLxAY?autoplay=1&loop=1&playlist=LhCbRprLxAY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -794,7 +794,7 @@
             }, 
             "properties": {
                 "name": "Curecanti National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/QR2zNlf_qYQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/QR2zNlf_qYQ?autoplay=1&loop=1&playlist=QR2zNlf_qYQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -808,7 +808,7 @@
             }, 
             "properties": {
                 "name": "Crater Lake National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SCTy-f8JNUw' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/SCTy-f8JNUw?autoplay=1&loop=1&playlist=SCTy-f8JNUw&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -822,7 +822,7 @@
             }, 
             "properties": {
                 "name": "Saint-Gaudens National Historic Site", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Kp_-KocVsWs' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/Kp_-KocVsWs?autoplay=1&loop=1&playlist=Kp_-KocVsWs&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -836,7 +836,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/IVCAeXkHlik' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/IVCAeXkHlik?autoplay=1&loop=1&playlist=IVCAeXkHlik&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -850,7 +850,7 @@
             }, 
             "properties": {
                 "name": "Rocky Mountain National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/CNL4WgJX7IA' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/CNL4WgJX7IA?autoplay=1&loop=1&playlist=CNL4WgJX7IA&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -864,7 +864,7 @@
             }, 
             "properties": {
                 "name": "Black Canyon Of The Gunnison National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/oIUrRvVcPpk' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/oIUrRvVcPpk?autoplay=1&loop=1&playlist=oIUrRvVcPpk&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -878,7 +878,7 @@
             }, 
             "properties": {
                 "name": "Glen Canyon National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/AaVl5ghHwtk' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/AaVl5ghHwtk?autoplay=1&loop=1&playlist=AaVl5ghHwtk&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -892,7 +892,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/jW0JGYS-myE' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/jW0JGYS-myE?autoplay=1&loop=1&playlist=jW0JGYS-myE&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -906,7 +906,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/d-3ALeRE4s8' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/d-3ALeRE4s8?autoplay=1&loop=1&playlist=d-3ALeRE4s8&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -920,7 +920,7 @@
             }, 
             "properties": {
                 "name": "Glen Canyon National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/sv7IpVjn1y0' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/sv7IpVjn1y0?autoplay=1&loop=1&playlist=sv7IpVjn1y0&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -934,7 +934,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/75ksas8JXIo' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/75ksas8JXIo?autoplay=1&loop=1&playlist=75ksas8JXIo&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -948,7 +948,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/iyi2OITnP44' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/iyi2OITnP44?autoplay=1&loop=1&playlist=iyi2OITnP44&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -962,7 +962,7 @@
             }, 
             "properties": {
                 "name": "Grand Teton National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/nCj0iqnz21E' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/nCj0iqnz21E?autoplay=1&loop=1&playlist=nCj0iqnz21E&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -976,7 +976,7 @@
             }, 
             "properties": {
                 "name": "Crater Lake National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/WPV91Uf0CiU' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/WPV91Uf0CiU?autoplay=1&loop=1&playlist=WPV91Uf0CiU&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -990,7 +990,7 @@
             }, 
             "properties": {
                 "name": "Glacier Bay National Park & Preserve", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/CBMC9X8v3XQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/CBMC9X8v3XQ?autoplay=1&loop=1&playlist=CBMC9X8v3XQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1004,7 +1004,7 @@
             }, 
             "properties": {
                 "name": "Yosemite National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/NkU7n623gWk' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/NkU7n623gWk?autoplay=1&loop=1&playlist=NkU7n623gWk&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1018,7 +1018,7 @@
             }, 
             "properties": {
                 "name": "Yosemite National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/0Cs20YsAQ-o' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/0Cs20YsAQ-o?autoplay=1&loop=1&playlist=0Cs20YsAQ-o&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1032,7 +1032,7 @@
             }, 
             "properties": {
                 "name": "Padre Island National Seashore", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/k-nM7LI7--g' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/k-nM7LI7--g?autoplay=1&loop=1&playlist=k-nM7LI7--g&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1046,7 +1046,7 @@
             }, 
             "properties": {
                 "name": "Sequoia & Kings Canyon National Parks", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ln-DReDE6DY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/ln-DReDE6DY?autoplay=1&loop=1&playlist=ln-DReDE6DY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1060,7 +1060,7 @@
             }, 
             "properties": {
                 "name": "Glacier Bay National Park & Preserve", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/qyRoSUSnJw4' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/qyRoSUSnJw4?autoplay=1&loop=1&playlist=qyRoSUSnJw4&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1074,7 +1074,7 @@
             }, 
             "properties": {
                 "name": "Saint-Gaudens National Historic Site", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/2dq9fvTABXE' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/2dq9fvTABXE?autoplay=1&loop=1&playlist=2dq9fvTABXE&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1088,7 +1088,7 @@
             }, 
             "properties": {
                 "name": "Glacier Bay National Park & Preserve", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/9S6PhRvyoVI' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/9S6PhRvyoVI?autoplay=1&loop=1&playlist=9S6PhRvyoVI&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1102,7 +1102,7 @@
             }, 
             "properties": {
                 "name": "Florissant Fossil Beds National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/O3CsZr-dBjU' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/O3CsZr-dBjU?autoplay=1&loop=1&playlist=O3CsZr-dBjU&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1116,7 +1116,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/1MDM7IopI9c' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/1MDM7IopI9c?autoplay=1&loop=1&playlist=1MDM7IopI9c&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1130,7 +1130,7 @@
             }, 
             "properties": {
                 "name": "John Day Fossil Beds National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/FqkxwVg-5fA' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/FqkxwVg-5fA?autoplay=1&loop=1&playlist=FqkxwVg-5fA&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1144,7 +1144,7 @@
             }, 
             "properties": {
                 "name": "Olympic National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DpkSdqeyn9E' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/DpkSdqeyn9E?autoplay=1&loop=1&playlist=DpkSdqeyn9E&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1158,7 +1158,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/y3cnNLNtE00' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/y3cnNLNtE00?autoplay=1&loop=1&playlist=y3cnNLNtE00&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1172,7 +1172,7 @@
             }, 
             "properties": {
                 "name": "Colorado National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/rTjN-Dh6Mlw' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/rTjN-Dh6Mlw?autoplay=1&loop=1&playlist=rTjN-Dh6Mlw&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1186,7 +1186,7 @@
             }, 
             "properties": {
                 "name": "Fort Smith National Historic Site", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/_Av651ppC4A' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/_Av651ppC4A?autoplay=1&loop=1&playlist=_Av651ppC4A&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1200,7 +1200,7 @@
             }, 
             "properties": {
                 "name": "Mesa Verde National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SEIsRhyrzIo' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/SEIsRhyrzIo?autoplay=1&loop=1&playlist=SEIsRhyrzIo&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1214,7 +1214,7 @@
             }, 
             "properties": {
                 "name": "Glen Canyon National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ZvjcoVWimcY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/ZvjcoVWimcY?autoplay=1&loop=1&playlist=ZvjcoVWimcY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1228,7 +1228,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/p6YsdpiG6Ck' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/p6YsdpiG6Ck?autoplay=1&loop=1&playlist=p6YsdpiG6Ck&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1242,7 +1242,7 @@
             }, 
             "properties": {
                 "name": "Yosemite National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/emFv4afopq0' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/emFv4afopq0?autoplay=1&loop=1&playlist=emFv4afopq0&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1256,7 +1256,7 @@
             }, 
             "properties": {
                 "name": "Saguaro National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/b6nTflkDxiY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/b6nTflkDxiY?autoplay=1&loop=1&playlist=b6nTflkDxiY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1270,7 +1270,7 @@
             }, 
             "properties": {
                 "name": "Isle Royale National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ZM-Oh9h7-u4' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/ZM-Oh9h7-u4?autoplay=1&loop=1&playlist=ZM-Oh9h7-u4&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1284,7 +1284,7 @@
             }, 
             "properties": {
                 "name": "Lava Beds National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/PXJ73XLxesA' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/PXJ73XLxesA?autoplay=1&loop=1&playlist=PXJ73XLxesA&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1298,7 +1298,7 @@
             }, 
             "properties": {
                 "name": "Gulf Islands National Seashore", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/2R-gYhYSl24' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/2R-gYhYSl24?autoplay=1&loop=1&playlist=2R-gYhYSl24&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1312,7 +1312,7 @@
             }, 
             "properties": {
                 "name": "Rocky Mountain National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/-BHwN5VOGag' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/-BHwN5VOGag?autoplay=1&loop=1&playlist=-BHwN5VOGag&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1326,7 +1326,7 @@
             }, 
             "properties": {
                 "name": "El Morro National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/U02LTU6LCWM' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/U02LTU6LCWM?autoplay=1&loop=1&playlist=U02LTU6LCWM&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1340,7 +1340,7 @@
             }, 
             "properties": {
                 "name": "Sequoia & Kings Canyon National Parks", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ODz7CLGJNd0' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/ODz7CLGJNd0?autoplay=1&loop=1&playlist=ODz7CLGJNd0&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1354,7 +1354,7 @@
             }, 
             "properties": {
                 "name": "Yosemite National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SMrOdkfC8jM' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/SMrOdkfC8jM?autoplay=1&loop=1&playlist=SMrOdkfC8jM&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1368,7 +1368,7 @@
             }, 
             "properties": {
                 "name": "Glen Canyon National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/xjeq-ZMgSMc' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/xjeq-ZMgSMc?autoplay=1&loop=1&playlist=xjeq-ZMgSMc&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1382,7 +1382,7 @@
             }, 
             "properties": {
                 "name": "Glacier Bay National Park & Preserve", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/RUXfEpt4jr0' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/RUXfEpt4jr0?autoplay=1&loop=1&playlist=RUXfEpt4jr0&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1396,7 +1396,7 @@
             }, 
             "properties": {
                 "name": "Lava Beds National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/7bVYtc1qggw' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/7bVYtc1qggw?autoplay=1&loop=1&playlist=7bVYtc1qggw&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1410,7 +1410,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/GG-FG6p4dt0' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/GG-FG6p4dt0?autoplay=1&loop=1&playlist=GG-FG6p4dt0&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1424,7 +1424,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/dGrE-rZ1I8w' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/dGrE-rZ1I8w?autoplay=1&loop=1&playlist=dGrE-rZ1I8w&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1438,7 +1438,7 @@
             }, 
             "properties": {
                 "name": "Glacier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/gR14XIGm80o' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/gR14XIGm80o?autoplay=1&loop=1&playlist=gR14XIGm80o&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1452,7 +1452,7 @@
             }, 
             "properties": {
                 "name": "Yosemite National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/dMSPF9knN1c' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/dMSPF9knN1c?autoplay=1&loop=1&playlist=dMSPF9knN1c&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1466,7 +1466,7 @@
             }, 
             "properties": {
                 "name": "Yellowstone National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/4RIhJ1VGSQc' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/4RIhJ1VGSQc?autoplay=1&loop=1&playlist=4RIhJ1VGSQc&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1480,7 +1480,7 @@
             }, 
             "properties": {
                 "name": "Dinosaur National Monument", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/OZi7_XtZq7o' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/OZi7_XtZq7o?autoplay=1&loop=1&playlist=OZi7_XtZq7o&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1494,7 +1494,7 @@
             }, 
             "properties": {
                 "name": "Santa Monica Mountains National Recreation Area", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/CZ_gT7EiwlE' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/CZ_gT7EiwlE?autoplay=1&loop=1&playlist=CZ_gT7EiwlE&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1508,7 +1508,7 @@
             }, 
             "properties": {
                 "name": "Gulf Islands National Seashore", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DPh6wRkbMZg' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/DPh6wRkbMZg?autoplay=1&loop=1&playlist=DPh6wRkbMZg&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1522,7 +1522,7 @@
             }, 
             "properties": {
                 "name": "Rocky Mountain National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/TV4ZJaIUVUY' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/TV4ZJaIUVUY?autoplay=1&loop=1&playlist=TV4ZJaIUVUY&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }, 
@@ -1536,7 +1536,7 @@
             }, 
             "properties": {
                 "name": "Mount Rainier National Park", 
-                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/wIYpoPDw1QQ' frameborder = '0' allowfullscreen></iframe>"
+                "youtube_link": "<iframe width= 350 height= 200 src = 'http://www.youtube.com/embed/wIYpoPDw1QQ?autoplay=1&loop=1&playlist=wIYpoPDw1QQ&controls=0' frameborder = '0' allowfullscreen></iframe>"
             }, 
             "type": "Feature"
         }
