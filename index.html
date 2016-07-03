@@ -14,6 +14,12 @@
 <style>
   body { margin:0; padding:0; }
   #mapid { position:absolute; top:0; bottom:0; width:100%; }
+  /* css to customize Leaflet default styles  */
+.custom .leaflet-popup-tip,
+.custom .leaflet-popup-content-wrapper {
+    background: #e93434;
+    color: #ffffff;
+}
 </style>
 </head>
 <body>
@@ -48,14 +54,23 @@ function addDataToMap(data, map) {
 }
 */
 function addDataToMap(data, map) {
+// specify popup options 
+    var customOptions =
+        {
+        'maxWidth': '500',
+        'className' : 'custom'
+        }
+	
     var dataLayer = L.geoJson(data, {
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br>" + feature.properties.youtube_link;
-            layer.bindPopup(popupText); }
+            layer.bindPopup(popupText, customOptions); }
         });
     dataLayer.addTo(map);
 }
+
+
 
 $.getJSON("https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/geojson_output.geojson", 
 function(data) { addDataToMap(data, mymap); });
