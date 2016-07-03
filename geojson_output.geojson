@@ -1,0 +1,1215 @@
+{
+    "features": [
+        {
+            "geometry": [
+                "-110.594646", 
+                "44.434682"
+            ], 
+            "properties": {
+                "name": "webcam_3", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/MUV-waGczzs' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-95.3875963", 
+                "29.769806"
+            ], 
+            "properties": {
+                "name": "webcam_6", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/oU56jOMdNas' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.79817", 
+                "48.765363"
+            ], 
+            "properties": {
+                "name": "webcam_9", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Je-0z6Z1P9M' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.618506", 
+                "44.415435"
+            ], 
+            "properties": {
+                "name": "webcam_11", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/tG5YRqeVTVQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.61267", 
+                "44.408322"
+            ], 
+            "properties": {
+                "name": "webcam_14", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DLwli6O0C0s' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-151.240839", 
+                "63.156765"
+            ], 
+            "properties": {
+                "name": "webcam_17", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/GoCgsXFs2CQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.434942", 
+                "40.504699"
+            ], 
+            "properties": {
+                "name": "webcam_18", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/6V2SWS_aQFY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.784874", 
+                "46.855434"
+            ], 
+            "properties": {
+                "name": "webcam_19", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/KMru0qyklFU' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-109.597069", 
+                "38.738403"
+            ], 
+            "properties": {
+                "name": "webcam_20", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/mSnFmf-27V8' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.447645", 
+                "40.486684"
+            ], 
+            "properties": {
+                "name": "webcam_22", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Xjg1KUugjhg' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-77.050176", 
+                "38.8892686"
+            ], 
+            "properties": {
+                "name": "webcam_23", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SXBOzOJ3oOQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-96.8336414", 
+                "40.2874177"
+            ], 
+            "properties": {
+                "name": "webcam_24", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/bqJcAvy558g' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-72.374748", 
+                "43.500823"
+            ], 
+            "properties": {
+                "name": "webcam_25", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/nqpml_2dnlM' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-88.910266", 
+                "47.996124"
+            ], 
+            "properties": {
+                "name": "webcam_27", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/8p3orZ7xTto' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.710042", 
+                "43.802098"
+            ], 
+            "properties": {
+                "name": "webcam_28", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/QHk82OPTnzQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-122.520265", 
+                "40.614987"
+            ], 
+            "properties": {
+                "name": "webcam_29", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/D44zYiZ9yu0' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.6533068", 
+                "45.6448164"
+            ], 
+            "properties": {
+                "name": "webcam_30", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Gye4Yy3r4Cg' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.792631", 
+                "46.848593"
+            ], 
+            "properties": {
+                "name": "webcam_31", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/xPSG7pEVWH4' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.723639", 
+                "37.523026"
+            ], 
+            "properties": {
+                "name": "webcam_32", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/6Az6Ha8c2To' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.79304", 
+                "46.842729"
+            ], 
+            "properties": {
+                "name": "webcam_33", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/uocZerXtBXY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-107.742615", 
+                "38.575972"
+            ], 
+            "properties": {
+                "name": "webcam_34", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DQuLl0tC1jk' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.790386", 
+                "46.83435"
+            ], 
+            "properties": {
+                "name": "webcam_35", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DQjGYOUuj1Q' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.704735", 
+                "43.780583"
+            ], 
+            "properties": {
+                "name": "webcam_37", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/_g2RJxUNbfQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.600139", 
+                "44.403049"
+            ], 
+            "properties": {
+                "name": "webcam_38", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/if9SNM5qdo8' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.438375", 
+                "40.460568"
+            ], 
+            "properties": {
+                "name": "webcam_39", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/oVlwwTp-jcQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.588466", 
+                "44.403049"
+            ], 
+            "properties": {
+                "name": "webcam_40", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/kqgmp8HpcKI' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.406789", 
+                "40.474411"
+            ], 
+            "properties": {
+                "name": "webcam_41", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ffFpDtdXY9M' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.579196", 
+                "44.408936"
+            ], 
+            "properties": {
+                "name": "webcam_42", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/9Lbi7D5uxbo' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.818426", 
+                "48.755631"
+            ], 
+            "properties": {
+                "name": "webcam_44", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/UvW-HTr11eY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.699408", 
+                "40.341747"
+            ], 
+            "properties": {
+                "name": "webcam_45", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/t5eKsX0SR3w' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.813276", 
+                "48.737973"
+            ], 
+            "properties": {
+                "name": "webcam_46", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/jhZetmRWqR4' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.809843", 
+                "48.722574"
+            ], 
+            "properties": {
+                "name": "webcam_48", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/kytxgFgtXZQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.783407", 
+                "48.717138"
+            ], 
+            "properties": {
+                "name": "webcam_49", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/LLFSKq2dM5c' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.698721", 
+                "40.328792"
+            ], 
+            "properties": {
+                "name": "webcam_50", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/AEKMssR6Cgg' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.633774", 
+                "44.548258"
+            ], 
+            "properties": {
+                "name": "webcam_51", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/GvExbx2kGZM' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.585033", 
+                "44.420707"
+            ], 
+            "properties": {
+                "name": "webcam_52", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/FiYzUeJTf3M' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.759152", 
+                "46.827228"
+            ], 
+            "properties": {
+                "name": "webcam_53", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/n9M2dkBbhMI' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.74425", 
+                "46.830719"
+            ], 
+            "properties": {
+                "name": "webcam_54", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/TXWuPEfc8ho' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-78.684505", 
+                "38.291669"
+            ], 
+            "properties": {
+                "name": "webcam_55", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/w47FrIVzeYw' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.765211", 
+                "48.713287"
+            ], 
+            "properties": {
+                "name": "webcam_56", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/LLcVEsimi1w' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.5943276", 
+                "37.7915959"
+            ], 
+            "properties": {
+                "name": "webcam_57", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/-M8fqjcuMNU' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.737105", 
+                "46.845801"
+            ], 
+            "properties": {
+                "name": "webcam_58", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/OxHPnolMTwc' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-116.822297", 
+                "46.447804"
+            ], 
+            "properties": {
+                "name": "webcam_59", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/HjWJxgAsIFk' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-123.618321", 
+                "47.804794"
+            ], 
+            "properties": {
+                "name": "webcam_60", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/XWNhBwraKPo' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.681555", 
+                "40.328269"
+            ], 
+            "properties": {
+                "name": "webcam_61", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/iFWWJRFLl14' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.748333", 
+                "46.855434"
+            ], 
+            "properties": {
+                "name": "webcam_62", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/IY9nERlEsAY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.742551", 
+                "48.720535"
+            ], 
+            "properties": {
+                "name": "webcam_63", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/jPBStC0FxNg' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.72252", 
+                "37.524658"
+            ], 
+            "properties": {
+                "name": "webcam_65", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/4LTrpSNA924' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-72.37405", 
+                "43.500153"
+            ], 
+            "properties": {
+                "name": "webcam_66", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/8jXA0Admz2o' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-81.0620212", 
+                "37.8817637"
+            ], 
+            "properties": {
+                "name": "webcam_67", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/YKvub0r3Vsw' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-122.168242", 
+                "42.875513"
+            ], 
+            "properties": {
+                "name": "webcam_68", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/bfTEhL3qBw8' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.740835", 
+                "48.741822"
+            ], 
+            "properties": {
+                "name": "webcam_69", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/8AazDlIlG-E' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.764868", 
+                "46.86046"
+            ], 
+            "properties": {
+                "name": "webcam_71", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/wvsJfrABih4' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.745679", 
+                "46.8733"
+            ], 
+            "properties": {
+                "name": "webcam_72", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/mVyeTmiroF4' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.589496", 
+                "44.435417"
+            ], 
+            "properties": {
+                "name": "webcam_73", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/q16Uqz5_HOg' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.639388", 
+                "44.544112"
+            ], 
+            "properties": {
+                "name": "webcam_75", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/LhCbRprLxAY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-107.1839024", 
+                "38.4641441"
+            ], 
+            "properties": {
+                "name": "webcam_76", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/QR2zNlf_qYQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-122.1515", 
+                "42.876611"
+            ], 
+            "properties": {
+                "name": "webcam_77", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SCTy-f8JNUw' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-72.373342", 
+                "43.500177"
+            ], 
+            "properties": {
+                "name": "webcam_78", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/Kp_-KocVsWs' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.602542", 
+                "44.432843"
+            ], 
+            "properties": {
+                "name": "webcam_79", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/IVCAeXkHlik' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.667651", 
+                "40.329316"
+            ], 
+            "properties": {
+                "name": "webcam_80", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/CNL4WgJX7IA' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-107.740427", 
+                "38.574127"
+            ], 
+            "properties": {
+                "name": "webcam_81", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/oIUrRvVcPpk' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.720391", 
+                "37.524772"
+            ], 
+            "properties": {
+                "name": "webcam_82", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/AaVl5ghHwtk' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.585719", 
+                "44.438482"
+            ], 
+            "properties": {
+                "name": "webcam_83", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/jW0JGYS-myE' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.748731", 
+                "48.761063"
+            ], 
+            "properties": {
+                "name": "webcam_84", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/d-3ALeRE4s8' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.720661", 
+                "37.516768"
+            ], 
+            "properties": {
+                "name": "webcam_85", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/sv7IpVjn1y0' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.773107", 
+                "48.770567"
+            ], 
+            "properties": {
+                "name": "webcam_86", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/75ksas8JXIo' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.809156", 
+                "48.790249"
+            ], 
+            "properties": {
+                "name": "webcam_87", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/iyi2OITnP44' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.6537", 
+                "43.792078"
+            ], 
+            "properties": {
+                "name": "webcam_88", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/nCj0iqnz21E' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-122.132509", 
+                "42.889245"
+            ], 
+            "properties": {
+                "name": "webcam_89", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/WPV91Uf0CiU' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-136.923647", 
+                "58.691086"
+            ], 
+            "properties": {
+                "name": "webcam_90", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/CBMC9X8v3XQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.570334", 
+                "37.732158"
+            ], 
+            "properties": {
+                "name": "webcam_91", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/NkU7n623gWk' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.587329", 
+                "37.756592"
+            ], 
+            "properties": {
+                "name": "webcam_92", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/0Cs20YsAQ-o' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-97.300557", 
+                "27.422937"
+            ], 
+            "properties": {
+                "name": "webcam_95", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/k-nM7LI7--g' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-118.824363", 
+                "36.489673"
+            ], 
+            "properties": {
+                "name": "webcam_96", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ln-DReDE6DY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-136.968966", 
+                "58.671099"
+            ], 
+            "properties": {
+                "name": "webcam_97", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/qyRoSUSnJw4' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-72.373353", 
+                "43.50115"
+            ], 
+            "properties": {
+                "name": "webcam_98", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/2dq9fvTABXE' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-136.942873", 
+                "58.641811"
+            ], 
+            "properties": {
+                "name": "webcam_99", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/9S6PhRvyoVI' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.2878403", 
+                "38.9145141"
+            ], 
+            "properties": {
+                "name": "webcam_100", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/O3CsZr-dBjU' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.621768", 
+                "44.430269"
+            ], 
+            "properties": {
+                "name": "webcam_101", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/1MDM7IopI9c' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.625506", 
+                "44.54193"
+            ], 
+            "properties": {
+                "name": "webcam_102", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/FqkxwVg-5fA' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-123.602442", 
+                "47.795874"
+            ], 
+            "properties": {
+                "name": "webcam_104", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DpkSdqeyn9E' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.848638", 
+                "48.81128"
+            ], 
+            "properties": {
+                "name": "webcam_105", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/y3cnNLNtE00' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-108.7708282", 
+                "39.1135465"
+            ], 
+            "properties": {
+                "name": "webcam_106", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/rTjN-Dh6Mlw' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-94.429877", 
+                "35.387922"
+            ], 
+            "properties": {
+                "name": "webcam_108", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/_Av651ppC4A' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-108.4886935", 
+                "37.1837823"
+            ], 
+            "properties": {
+                "name": "webcam_109", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SEIsRhyrzIo' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.735774", 
+                "37.518935"
+            ], 
+            "properties": {
+                "name": "webcam_110", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ZvjcoVWimcY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.626575", 
+                "44.419113"
+            ], 
+            "properties": {
+                "name": "webcam_111", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/p6YsdpiG6Ck' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.565871", 
+                "37.738267"
+            ], 
+            "properties": {
+                "name": "webcam_113", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/emFv4afopq0' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-111.166615", 
+                "32.2967359"
+            ], 
+            "properties": {
+                "name": "webcam_114", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/b6nTflkDxiY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-88.909258", 
+                "47.995413"
+            ], 
+            "properties": {
+                "name": "webcam_115", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ZM-Oh9h7-u4' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.50958", 
+                "41.714695"
+            ], 
+            "properties": {
+                "name": "webcam_116", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/PXJ73XLxesA' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-88.791667", 
+                "30.391713"
+            ], 
+            "properties": {
+                "name": "webcam_117", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/2R-gYhYSl24' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.67177", 
+                "40.334943"
+            ], 
+            "properties": {
+                "name": "webcam_118", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/-BHwN5VOGag' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-108.3450813", 
+                "35.0396358"
+            ], 
+            "properties": {
+                "name": "webcam_119", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/U02LTU6LCWM' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-118.8252", 
+                "36.491734"
+            ], 
+            "properties": {
+                "name": "webcam_120", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/ODz7CLGJNd0' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.558146", 
+                "37.74424"
+            ], 
+            "properties": {
+                "name": "webcam_122", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/SMrOdkfC8jM' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.72928", 
+                "37.520956"
+            ], 
+            "properties": {
+                "name": "webcam_123", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/xjeq-ZMgSMc' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-136.827517", 
+                "58.635379"
+            ], 
+            "properties": {
+                "name": "webcam_124", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/RUXfEpt4jr0' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.509473", 
+                "41.713438"
+            ], 
+            "properties": {
+                "name": "webcam_125", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/7bVYtc1qggw' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.824606", 
+                "48.735709"
+            ], 
+            "properties": {
+                "name": "webcam_127", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/GG-FG6p4dt0' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.728939", 
+                "46.840495"
+            ], 
+            "properties": {
+                "name": "webcam_128", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/dGrE-rZ1I8w' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-113.769331", 
+                "48.756536"
+            ], 
+            "properties": {
+                "name": "webcam_129", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/gR14XIGm80o' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-119.556086", 
+                "37.729443"
+            ], 
+            "properties": {
+                "name": "webcam_130", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/dMSPF9knN1c' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-110.617991", 
+                "44.445345"
+            ], 
+            "properties": {
+                "name": "webcam_131", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/4RIhJ1VGSQc' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-108.9487453", 
+                "40.5130533"
+            ], 
+            "properties": {
+                "name": "webcam_132", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/OZi7_XtZq7o' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-118.707707", 
+                "34.102893"
+            ], 
+            "properties": {
+                "name": "webcam_133", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/CZ_gT7EiwlE' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-88.791464", 
+                "30.390001"
+            ], 
+            "properties": {
+                "name": "webcam_134", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/DPh6wRkbMZg' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-105.685503", 
+                "40.339392"
+            ], 
+            "properties": {
+                "name": "webcam_135", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/TV4ZJaIUVUY' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": [
+                "-121.777933", 
+                "46.872881"
+            ], 
+            "properties": {
+                "name": "webcam_136", 
+                "youtube_link": "<iframe width= 224 height= 126 src = 'https://www.youtube.com/embed/wIYpoPDw1QQ' frameborder = '0' allowfullscreen></iframe>"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
