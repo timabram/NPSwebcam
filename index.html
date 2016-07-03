@@ -17,7 +17,7 @@
   /* css to customize Leaflet default styles  */
 .custom .leaflet-popup-tip,
 .custom .leaflet-popup-content-wrapper {
-    background: #e93434;
+    background: #a65523;
     color: #ffffff;
 }
 </style>
@@ -64,7 +64,7 @@ function addDataToMap(data, map) {
     var dataLayer = L.geoJson(data, {
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
-            "<br>" + feature.properties.youtube_link;
+            "<br><center>" + feature.properties.youtube_link + "</center>";
             layer.bindPopup(popupText, customOptions); }
         });
     dataLayer.addTo(map);
