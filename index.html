@@ -44,7 +44,8 @@ function addDataToMap(data, map) {
     dataLayer.addTo(map);
 }
 
-$.getJSON("geojson_output.geojson", function(data) { addDataToMap(data, map); });
+$.getJSON("https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/geojson_output.geojson", 
+function(data) { addDataToMap(data, map); });
 	
 	
 	/*
