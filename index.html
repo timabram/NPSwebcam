@@ -50,7 +50,8 @@ function addDataToMap(data, map) {
 function addDataToMap(data, map) {
     var dataLayer = L.geoJson(data, {
         onEachFeature: function(feature, layer) {
-            var popupText = "<br>Location: " + feature.properties.name;
+            var popupText = feature.properties.name + 
+            "<br>" + feature_properties.youtube_link;
             layer.bindPopup(popupText); }
         });
     dataLayer.addTo(map);
