@@ -62,7 +62,7 @@
 	
 
 var TitleBox = L.Control.extend({
-    options: {position: 'topcenter'},
+    options: {position: 'topright'},
     onAdd: function (map) {return L.DomUtil.create('div', 'title-style');},
     setContent: function (content) {this.getContainer().innerHTML = content;}
 });
