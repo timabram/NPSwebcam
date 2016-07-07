@@ -65,14 +65,10 @@
 var myCustomControl =  new MyCustomControl().addTo(mymap);
 
 // Set content on a marker click
-marker.on('click', function () {
+marker.on(function () {
     myCustomControl.setContent('My awesome content');
 });
 
-// Remove content on map click
-map.on('click', function () {
-    myCustomControl.setContent('');
-});
 
 /*	
 function addDataToMap(data, map) {
