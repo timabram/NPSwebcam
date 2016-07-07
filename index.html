@@ -20,7 +20,7 @@
     background: #a65523;
     color: #ffffff;
 }
-.my-custom-control {
+.title-style {
     padding:5px 10px;
     background: rgba(0,0,0,0.5);
     color: #fff;
@@ -29,7 +29,19 @@
     border-radius: 5px;
 }
 
-.my-custom-control:empty {
+.title-style:empty {
+    display: none;
+}
+.description-style {
+    padding:5px 10px;
+    background: rgba(0,0,0,0.2);
+    color: #fff;
+    font-size: 11px;
+    line-height: 18px;
+    border-radius: 5px;
+}
+
+.description-style:empty {
     display: none;
 }
 </style>
@@ -49,24 +61,23 @@
 	}).addTo(mymap);
 	
 
-var MyCustomControl = L.Control.extend({
-    options: {
-        // Default control position
-        position: 'bottomleft'
-    },
-    onAdd: function (map) {
-        // Create a container with classname and return it
-        return L.DomUtil.create('div', 'my-custom-control');
-    },
-    setContent: function (content) {
-        // Set the innerHTML of the container
-        this.getContainer().innerHTML = content;
-    }
+var TitleBox = L.Control.extend({
+    options: {position: 'topcenter'},
+    onAdd: function (map) {return L.DomUtil.create('div', 'title-style');},
+    setContent: function (content) {this.getContainer().innerHTML = content;}
 });
 
+var DescriptionBox = L.Control.extend({
+    options: {position: 'bottomleft'},
+    onAdd: function (map) {return L.DomUtil.create('div', 'description-style');},
+    setContent: function (content) {this.getContainer().innerHTML = content;}
+});
 // Assign to a variable so you can use it later and add it to your map
-var x =  new MyCustomControl().addTo(mymap);
-x.setContent('TEST THIS TEXT OUT!!');
+var x =  new TitleBox().addTo(mymap);
+x.setContent('TITLE SPACE: National Park Webcam Map');
+
+var y =  new DescriptionBox().addTo(mymap);
+y.setContent('This represents where the descrption will go. I think this has some <b>HTML</b> formatting too?');
 /*	
 function addDataToMap(data, map) {
     var dataLayer = L.geoJson(data);
