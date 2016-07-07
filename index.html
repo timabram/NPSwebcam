@@ -49,7 +49,24 @@
 	}).addTo(mymap);
 	
 
+var MyCustomControl = L.Control.extend({
+    options: {
+        // Default control position
+        position: 'bottomleft'
+    },
+    onAdd: function (map) {
+        // Create a container with classname and return it
+        return L.DomUtil.create('div', 'my-custom-control');
+    },
+    setContent: function (content) {
+        // Set the innerHTML of the container
+        this.getContainer().innerHTML = content;
+    }
+});
 
+// Assign to a variable so you can use it later and add it to your map
+var x =  new MyCustomControl().addTo(mymap);
+x.setContent('TEST THIS TEXT OUT!!');
 /*	
 function addDataToMap(data, map) {
     var dataLayer = L.geoJson(data);
