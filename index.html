@@ -19,6 +19,17 @@
 .custom .leaflet-popup-content-wrapper {
     background: #a65523;
     color: #ffffff;
+.my-custom-control {
+    padding:5px 10px;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 11px;
+    line-height: 18px;
+    border-radius: 5px;
+}
+.my-custom-control:empty {
+    display: none;
+}
 }
 </style>
 </head>
@@ -34,12 +45,34 @@
 			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
 		id: 'mapbox.streets'
-		
-		
-		
 	}).addTo(mymap);
-	
-	
+	var MyCustomControl = L.Control.extend({
+		    options: {
+		        // Default control position
+		        position: 'bottomleft'
+		    },
+		    onAdd: function (map) {
+		        // Create a container with classname and return it
+		        return L.DomUtil.create('div', 'my-custom-control');
+		    },
+		    setContent: function (content) {
+		        // Set the innerHTML of the container
+		        this.getContainer().innerHTML = content;
+		    }
+		});
+// Assign to a variable so you can use it later and add it to your map
+var myCustomControl =  new MyCustomControl().addTo(mymap);
+
+// Set content on a marker click
+marker.on('click', function () {
+    myCustomControl.setContent('My awesome content');
+});
+
+// Remove content on map click
+map.on('click', function () {
+    myCustomControl.setContent('');
+});
+
 /*	
 function addDataToMap(data, map) {
     var dataLayer = L.geoJson(data);
