@@ -98,7 +98,7 @@ function addDataToMap(data, map) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
             layer.bindPopup(popupText, customOptions); 
-        layer.Icon.extend({options:{iconUrl: './arrowhead_marker.png'}})
+        layer.icon.({options:{iconUrl: './arrowhead_marker.png'}})
         }
         });
     dataLayer.addTo(map);
