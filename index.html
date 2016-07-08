@@ -84,28 +84,14 @@ x.setContent('<h1>National Park Webcam Map</h1>');
 var y =  new DescriptionBox().addTo(mymap);
 y.setContent('Explore the dynamics of your National Park system through daily updated timelapse videos.<br>' +
 'Select a marker to view videos specific to each National Park webcam.');
-/*	
-function addDataToMap(data, map) {
-    var dataLayer = L.geoJson(data);
-    dataLayer.addTo(map);
-}
 
-function addDataToMap(data, map) {
-    var dataLayer = L.geoJson(data, {
-        onEachFeature: function(feature, layer) {
-            var popupText = "<br>Location: " + feature.properties.name +
-                "<br>" + feature.properties.youtube_link;
-            layer.bindPopup(popupText); }
-        });
-    dataLayer.addTo(map);
-}
-*/
 function addDataToMap(data, map) {
 // specify popup options 
     var customOptions =
         {
         'maxWidth': '500',
         'className' : 'custom'
+        'iconUrl' : './arrowhead_marker.png'
         }
 	
     var dataLayer = L.geoJson(data, {
@@ -122,34 +108,7 @@ function addDataToMap(data, map) {
 $.getJSON("https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/geojson_output.geojson", 
 function(data) { addDataToMap(data, mymap); });
 	
-	
-	/*
-	var park1 = new L.marker([38.352105, -119.934996]).addTo(mymap);
-	var park2 = new L.marker([35.290692, -111.508443]).addTo(mymap);
-	//var park1 = new L.marker([35.840854,14.484347]).addTo(mymap);
-	park1.on('click', function(e) {
-	  var popup = L.popup()
-	    .setLatLng(e.latlng) //(assuming e.latlng returns the coordinates of the event)
-	    .setContent("<iframe width='224' height='126' src='http://www.youtube.com/embed/StOTSqGxuBY?autoplay=1&loop=1&playlist=StOTSqGxuBY&controls=0' frameborder='0' allowfullscreen></iframe>")
-	    .openOn(mymap);
-	});
-	park2.on('click', function(e) {
-	  var popup = L.popup()
-	    .setLatLng(e.latlng) //(assuming e.latlng returns the coordinates of the event)
-	    .setContent("<iframe width='224' height='126' src='http://www.youtube.com/embed/0Yjhjg4DaJ8?autoplay=1&loop=1&playlist=0Yjhjg4DaJ8&controls=0' frameborder='0' allowfullscreen></iframe>")
-	    .openOn(mymap);
-	});
-	mymap.on('click', onMapClick); */
+
 </script>
-
-
-<!--
-<h1> TEST </h1>
-
-<iframe frameborder="0" width="700" height="467" src="http://player.vimeo.com/video/173070876?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1&amp;autopause=0&amp;color=fdea2e"></iframe>
-<br></br>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/StOTSqGxuBY?autoplay=1&loop=1&playlist=StOTSqGxuBY&controls=0" frameborder="0" allowfullscreen></iframe>​
-
--->
 </body>
 </html>
