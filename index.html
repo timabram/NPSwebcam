@@ -78,18 +78,6 @@ var DescriptionBox = L.Control.extend({
     setContent: function (content) {this.getContainer().innerHTML = content;}
 });
 
-var customIcon = L.icon({
-    iconUrl: 'my-icon.png',
-    iconRetinaUrl: 'my-icon@2x.png',
-    iconSize: [38, 95],
-    iconAnchor: [22, 94],
-    popupAnchor: [-3, -76],
-    shadowUrl: 'my-icon-shadow.png',
-    shadowRetinaUrl: 'my-icon-shadow@2x.png',
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94]
-});
-
 // Assign to a variable so you can use it later and add it to your map
 var x =  new TitleBox().addTo(mymap);
 x.setContent('<h1>National Park Webcam Map</h1>');
@@ -104,7 +92,6 @@ function addDataToMap(data, map) {
         {
         'maxWidth': '500',
         'className' : 'custom'
-        {icon: customIcon}
         }
 	
     var dataLayer = L.geoJson(data, {
