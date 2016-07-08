@@ -88,9 +88,10 @@ y.setContent('Explore the dynamics of your National Park system through daily up
 
 
 var myIcon = L.Icon.Default.extend({
-    iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png',
+    options: {iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'
+    }
 });
-var customIcon = myIcon();
+var customIcon = new myIcon();
 
 function addDataToMap(data, map) {
 // specify popup options 
