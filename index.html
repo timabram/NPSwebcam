@@ -105,7 +105,7 @@ function addDataToMap(data, map) {
     		return {icon: myIcon};
     	},
    	pointToLayer: function(feature, latlng){
-    		return new L.Marker(latlng, {iconUrl: './arrowhead_marker.png'});
+    		return new L.Icon(latlng, {iconUrl: './arrowhead_marker.png'});
     	},
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
