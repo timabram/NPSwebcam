@@ -91,14 +91,15 @@ function addDataToMap(data, map) {
         {
         'maxWidth': '500',
         'className' : 'custom'
-        'iconUrl' : './arrowhead_marker.png'
         }
 	
     var dataLayer = L.geoJson(data, {
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            layer.bindPopup(popupText, customOptions); }
+            layer.bindPopup(popupText, customOptions); 
+        layer.icon.extend({options:{iconUrl: './arrowhead_marker.png'}})
+        }
         });
     dataLayer.addTo(map);
 }
