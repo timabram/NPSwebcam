@@ -107,8 +107,9 @@ function addDataToMap(data, map) {
         pointToLayer: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            layer.bindPopup(popupText, customOptions);
             return L.circleMarker(latlng, MarkerOptions);
+            L.bindPopup(popupText, customOptions);
+            
         }
         });
     dataLayer.addTo(map);
