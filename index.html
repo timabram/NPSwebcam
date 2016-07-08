@@ -106,7 +106,11 @@ function addDataToMap(data, map) {
     		return {icon: customIcon};
     	},
    	pointToLayer: function(feature, latlng){
-    		return new L.CircleMarker(latlng, {iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'});
+   		var customIcon = L.Icon({
+   			iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'
+   		});
+   		return L.marker(latlng, {icon: customIcon});
+    	//return new L.CircleMarker(latlng, {iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'});
     	},
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
