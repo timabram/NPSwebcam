@@ -102,9 +102,9 @@ function addDataToMap(data, map) {
         }
 	
     var dataLayer = L.geoJson(data, {
-    	style: function(feature){
+    	/*style: function(feature){
     		return {icon: customIcon};
-    	},
+    	},*/
    	pointToLayer: function(feature, latlng){
    		var customIcon = L.Icon({
    			iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'
@@ -118,7 +118,7 @@ function addDataToMap(data, map) {
             layer.bindPopup(popupText, customOptions); 
         }
         });
-    dataLayer.addTo(map);
+    dataLayer.addTo(markers.addTo(map));
 }
 
 /*geojsonLayer = L.geoJson(geojson, {
