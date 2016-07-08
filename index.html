@@ -87,10 +87,10 @@ y.setContent('Explore the dynamics of your National Park system through daily up
 'Select a marker to view videos specific to each National Park webcam.');
 
 
-var myIcon = L.icon({
-    iconUrl: './arrowhead_marker.png',
+var myIcon = L.Icon.Default.extend({
+    iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png',
 });
-
+var customIcon = myIcon();
 
 function addDataToMap(data, map) {
 // specify popup options 
@@ -102,11 +102,11 @@ function addDataToMap(data, map) {
 	
     var dataLayer = L.geoJson(data, {
     	style: function(feature){
-    		return {icon: myIcon};
+    		return {icon: customIcon};
     	},
-   	pointToLayer: function(feature, latlng){
+   	/*pointToLayer: function(feature, latlng){
     		return new L.Icon(latlng, {iconUrl: './arrowhead_marker.png'});
-    	},
+    	},*/
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
