@@ -79,12 +79,16 @@ var DescriptionBox = L.Control.extend({
 });
 
 var customIcon = L.icon({
-    iconUrl: './arrowhead_marker.png',
+    iconUrl: 'my-icon.png',
+    iconRetinaUrl: 'my-icon@2x.png',
+    iconSize: [38, 95],
+    iconAnchor: [22, 94],
+    popupAnchor: [-3, -76],
+    shadowUrl: 'my-icon-shadow.png',
+    shadowRetinaUrl: 'my-icon-shadow@2x.png',
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94]
 });
-var MarkerOptions ={
-	radius: 8,
-	fillColor: "#ff7800"
-}
 
 // Assign to a variable so you can use it later and add it to your map
 var x =  new TitleBox().addTo(mymap);
@@ -100,16 +104,14 @@ function addDataToMap(data, map) {
         {
         'maxWidth': '500',
         'className' : 'custom'
+        {icon: customIcon}
         }
 	
     var dataLayer = L.geoJson(data, {
-    	
-        pointToLayer: function(feature, layer) {
+        onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            return L.circleMarker(latlng, MarkerOptions);
-            L.bindPopup(popupText, customOptions);
-            
+            layer.bindPopup(popupText, customOptions); 
         }
         });
     dataLayer.addTo(map);
