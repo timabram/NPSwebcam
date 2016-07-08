@@ -105,9 +105,9 @@ function addDataToMap(data, map) {
     	style: function(feature){
     		return {icon: customIcon};
     	},
-   	/*pointToLayer: function(feature, latlng){
-    		return new L.Icon(latlng, {iconUrl: './arrowhead_marker.png'});
-    	},*/
+   	pointToLayer: function(feature, latlng){
+    		return new L.CircleMarker(latlng, {iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'});
+    	},
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
