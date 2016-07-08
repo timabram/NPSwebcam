@@ -98,9 +98,9 @@ function addDataToMap(data, map) {
     	style: function(feature){
     		return {iconUrl: './arrowhead_marker.png'};
     	},
-    	pointToLayer: function(feature, latlng){
+    /*	pointToLayer: function(feature, latlng){
     		return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
-    	},
+    	},*/
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
