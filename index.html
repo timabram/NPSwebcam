@@ -95,6 +95,12 @@ function addDataToMap(data, map) {
         }
 	
     var dataLayer = L.geoJson(data, {
+    	style: function(feature){
+    		return {iconUrl: './arrowhead_marker.png'};
+    	},
+    	pointToLayer: function(feature, latlng){
+    		return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
+    	},
         onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
@@ -103,6 +109,19 @@ function addDataToMap(data, map) {
         });
     dataLayer.addTo(map);
 }
+
+/*geojsonLayer = L.geoJson(geojson, {
+    style: function(feature) {
+        return {color: feature.properties.GPSUserColor};
+    },
+    pointToLayer: function(feature, latlng) {
+        return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
+    },
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(feature.properties.GPSUserName);
+    }
+});*/
+
 
 
 
