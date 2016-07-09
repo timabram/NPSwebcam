@@ -91,11 +91,11 @@ y.setContent('Explore the dynamics of your National Park system through daily up
 var myIcon = L.icon({
     iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker-small.png',
     shadowUrl: 'https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/marker-shadow.png',
-    iconSize: [38, 95],
+   /* iconSize: [38, 95],
     iconAnchor: [22, 94],
     popupAnchor: [-3, -76],
     shadowSize: [68, 95],
-    shadowAnchor: [22, 94]
+    shadowAnchor: [22, 94]*/
     
 });
 //var customIcon = new myIcon();
@@ -120,12 +120,11 @@ function addDataToMap(data, map) {
    	//	});
    	//	return L.marker(latlng, {icon: customIcon});
     	//return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
-    	return new L.Marker(latlng, {icon: new myIcon
-    		//{
-    		//iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker-small.png',
-    		//shadowUrl: 'https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/marker-shadow.png'
-    		//}
-    		//)
+    	return new L.Marker(latlng, {icon: new myIcon({
+    		iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker-small.png',
+    		shadowUrl: 'https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/marker-shadow.png',
+    		iconSize: [38, 95], shadowSize: [68, 95]
+    		})
     	
     	});
     	},
