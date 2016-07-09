@@ -121,7 +121,7 @@ function addDataToMap(data, map) {
     	    	onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            L.bindPopup(popupText, customOptions); 
+            layer.bindPopup(popupText, customOptions); 
         },
 
         });
