@@ -51,6 +51,7 @@ src: url("./Rawlinson.otf") format("opentype");
 }
 </style>
 </head>
+
 <body>
 <!--	<center><div id="mapid" style="width: 1200px; height: 800px"></div></center>-->
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
@@ -105,18 +106,17 @@ function addDataToMap(data, map) {
     	/*style: function(feature){
     		return {icon: customIcon};
     	},*/
-    	        onEachFeature: function(feature, layer) {
+    	onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            layer.bindPopup(popupText, customOptions); 
+        //    layer.bindPopup(popupText, customOptions); 
         },
    	pointToLayer: function(feature, latlng){
    		var customIcon = L.Icon({
    			//iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'
    			iconSize: [38, 95]
    		});
-   		marker =  L.marker(latlng, {icon: customIcon});
-   		return marker;
+   		return L.marker(latlng, {icon: customIcon});
     	//return new L.CircleMarker(latlng, {iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'});
     	},
 
