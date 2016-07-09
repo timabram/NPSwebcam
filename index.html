@@ -114,12 +114,12 @@ function addDataToMap(data, map) {
    	//	});
    	//	return L.marker(latlng, {icon: customIcon});
     	//return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
-    	return new L.Marker(latlng, {icon: myIcon});
+    	return L.Marker(latlng, {icon: myIcon});
     	},
     	    	onEachFeature: function(feature, layer) {
             var popupText = "<h1>" + feature.properties.name + "</h1>" +  
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            layer.bindPopup(popupText, customOptions); 
+            L.bindPopup(popupText, customOptions); 
         },
 
         });
