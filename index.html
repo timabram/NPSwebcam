@@ -105,6 +105,11 @@ function addDataToMap(data, map) {
     	/*style: function(feature){
     		return {icon: customIcon};
     	},*/
+    	        onEachFeature: function(feature, layer) {
+            var popupText = "<h1>" + feature.properties.name + "</h1>" +  
+            "<br><center>" + feature.properties.youtube_link + "</center>";
+            layer.bindPopup(popupText, customOptions); 
+        },
    	pointToLayer: function(feature, latlng){
    		var customIcon = L.Icon({
    			//iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'
@@ -114,11 +119,7 @@ function addDataToMap(data, map) {
    		return marker;
     	//return new L.CircleMarker(latlng, {iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'});
     	},
-        onEachFeature: function(feature, layer) {
-            var popupText = "<h1>" + feature.properties.name + "</h1>" +  
-            "<br><center>" + feature.properties.youtube_link + "</center>";
-            layer.bindPopup(popupText, customOptions); 
-        }
+
         });
     dataLayer.addTo(map);
 }
