@@ -88,10 +88,14 @@ y.setContent('Explore the dynamics of your National Park system through daily up
 'Select a marker to view videos specific to each National Park webcam.');
 
 
-var myIcon = L.Icon.Default.extend({
+var myIcon = L.icon({
     iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker-small.png',
     shadowUrl: 'https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/marker-shadow.png',
-    iconSize: 1
+    iconSize: [38, 95],
+    iconAnchor: [22, 94],
+    popupAnchor: [-3, -76],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94]
     
 });
 //var customIcon = new myIcon();
