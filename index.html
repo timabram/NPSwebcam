@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,41 +5,66 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<!--<script src="leaflet-providers.js"></script>-->
 
 
 <style>
-  body { margin:0; padding:0; 
-@font-face {
-font-family: Rawlinson;
-src: url("./Rawlinson.otf") format("opentype");
-}
+
+body { margin:0; padding:0;
   }
   #mapid { position:absolute; top:0; bottom:0; width:100%; }
-  /* css to customize Leaflet default styles  */
 .custom .leaflet-popup-tip,
 .custom .leaflet-popup-content-wrapper {
-    background: #a65523;
+    font-family: Georgia, Serif;
+    background: #a76c4c;
     color: #ffffff;
 }
-.title-style {
-    padding: 50px 30px 50px 80px
-    background: rgba(0,0,0,0.5);
-    color: #fff;
-    font-size: 20px;
-    line-height: 18px;
-    border-radius: 5px;
+.mouseover .leaflet-popup-tip,
+.mouseover .leaflet-popup-content-wrapper {
+    font-family: Georgia, Serif;
+    font-size: 15px;
+    background: #a76c4c;
+    color: #ffffff;
 }
 
+h1{font-size: 40px;}
+h2{font-size: 18px;}
+h3{font-size: 18px;}
+a:link{
+    color: #a76c4c;
+    text-decoration: none;}
+a:visited{
+    color: #a76c4c;
+    text-decoration: none;}
+p{font-size: 18px;}
+ol{font-size: 15px;}
+#detail_text{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10px;}
+.title-style {
+    font-family: Georgia, Serif;
+    position: absolute;
+    top: 0;
+    left: 50px;
+    right: 0;
+    width: 1600px;
+    height: 100px;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    background: rgba(0,0,0,0.80);
+    color: #fff;
+    border-radius: 5px;
+}
 .title-style:empty {
     display: none;
 }
 .description-style {
-    padding: 50px 30px 50px 80px;
-    background: rgba(0,0,0,0.75);
+    font-family: Georgia, Serif;
+    font-size: 20px;
+    padding: 30px 30px 20px 30px;
+    background: rgba(0, 0, 0,0.70);
     color: #fff;
+    width: 250px;
     font-size: 12px;
     line-height: 18px;
     border-radius: 5px;
@@ -50,108 +74,85 @@ src: url("./Rawlinson.otf") format("opentype");
     display: none;
 }
 </style>
+
 </head>
 
 <body>
-<!--	<center><div id="mapid" style="width: 1200px; height: 800px"></div></center>-->
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 <div id = "mapid"></div>
 <script>
 	var mymap = L.map('mapid').setView([39.328999, -99.553566], 5);
-	L.tileLayer('https://api.mapbox.com/styles/v1/timabram/ciqbgm8i1000ic5javckwt0xh/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoidGltYWJyYW0iLCJhIjoiY2lxYmdpa2xsMDBuemZybTFtM3oya3A3dSJ9.LFhhmOqkLbVbJG7ED6rNgQ', {
-		maxZoom: 18,
-		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-		id: 'mapbox.streets'
-	}).addTo(mymap);
-	
 
-var TitleBox = L.Control.extend({
+	var TitleBox = L.Control.extend({
     options: {position: 'topleft'},
     onAdd: function (map) {return L.DomUtil.create('div', 'title-style');},
     setContent: function (content) {this.getContainer().innerHTML = content;}
-});
+    });
 
-var DescriptionBox = L.Control.extend({
-    options: {position: 'bottomleft'},
-    onAdd: function (map) {return L.DomUtil.create('div', 'description-style');},
-    setContent: function (content) {this.getContainer().innerHTML = content;}
-});
+    var x =  new TitleBox().addTo(mymap);
+                x.setContent("<h1>National Park Webcam Map</h1>");
 
-// Assign to a variable so you can use it later and add it to your map
-var x =  new TitleBox().addTo(mymap);
-x.setContent('<h1>National Park Webcam Map</h1>');
-
-var y =  new DescriptionBox().addTo(mymap);
-y.setContent('Explore the dynamics of your National Park system through daily updated timelapse videos.<br>' +
-'Select a marker to view videos specific to each National Park webcam.');
+    L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
+        maxZoom: 16
+    }).addTo(mymap);
 
 
-var myIcon = L.Icon.extend({
-    iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker_detail.png',
-    shadowUrl: 'https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/marker-shadow.png',
-   /* iconSize: [38, 95],
-    iconAnchor: [22, 94],
-    popupAnchor: [-3, -76],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94]*/
-    
-});
-//var customIcon = new myIcon();
+    var DescriptionBox = L.Control.extend({
+        options: {position: 'bottomleft'},
+        onAdd: function (map) {return L.DomUtil.create('div', 'description-style');},
+        setContent: function (content) {this.getContainer().innerHTML = content;}
+    });
+
+    var y =  new DescriptionBox().addTo(mymap);
+                y.setContent("<h3>Explore the dynamics of your <a href='http://findyourpark.com/'>National Park system</a> through daily updated timelapse videos.</h3>" +
+                '<p>Select a marker to view videos specific to each National Park webcam:</p>' +
+                '<ol>' +
+                    '<li><b>Mouseover: </b>Identify park name</li>' +
+                    '<li><b>Mouse Drag: </b>Pan location on map</li>' +
+                    '<li><b>Mouse Scroll: </b>Zoom in and out of map</li>' +
+                    '<li><b>Click: </b>Click on markers to open timelapse video popup</li>' +
+                '</ol>' +
+                "<p id='detail_text'><b>Disclaimer: </b>Webcam animations were automatically generated based on still images captured from the <a href='http://www.nps.gov/index.html'>National Park Service website</a> and are subject to disruption by periodic maintenance, poor image quality, and image freeze. For a live view of any National Park webcam, visit <a href='https://www.nps.gov/media/multimedia-search.htm?d=Type:Webcam&o=date:D:L:d1'>NPS.gov</a>. Help celebrate 100 years the National Park Service and find a new National Park to explore!</p>");
+
+var myIcon = L.Icon.extend({});
 
 function addDataToMap(data, map) {
-// specify popup options 
     var customOptions =
         {
         'maxWidth': '500',
         'className' : 'custom'
         }
-	
+    var mouseoverOptions =
+        {
+        'autoPan': '',
+        'closeButton' : '',
+        'className': 'mouseover'
+        }
     var dataLayer = L.geoJson(data, {
-    	/*style: function(feature){
-    		return {icon: customIcon};
-    	},*/
 
    	pointToLayer: function(feature, latlng){
-   		//var customIcon = L.Icon({
-   			//iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker.png'
-   	//		iconSize: [38, 95]
-   	//	});
-   	//	return L.marker(latlng, {icon: customIcon});
-    	//return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
     	return new L.Marker(latlng, {icon: new myIcon({
     		iconUrl: 'https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/arrowhead_marker_detail.png',
     		shadowUrl: 'https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/marker-shadow.png',
     		iconSize: [48, 60], shadowSize: [60,60], shadowAnchor: [20,25]
     		})
-    	
     	});
     	},
-    	    	onEachFeature: function(feature, layer) {
-            var popupText = "<h1>" + feature.properties.name + "</h1>" +  
+    onEachFeature: function(feature, layer) {
+         var popupText = "<h2>" + feature.properties.name + "</h2>" +
             "<br><center>" + feature.properties.youtube_link + "</center>";
-            layer.bindPopup(popupText, customOptions); 
+            layer.on('click', function(evt){
+            layer.bindPopup(popupText, customOptions);
+            });
+         var mouseoverText = feature.properties.name;
+            layer.on('mouseover', function(evt){
+            layer.bindPopup(mouseoverText, mouseoverOptions).openPopup();
+            });
         }
-
         });
     dataLayer.addTo(map);
 }
-
-/*geojsonLayer = L.geoJson(geojson, {
-    style: function(feature) {
-        return {color: feature.properties.GPSUserColor};
-    },
-    pointToLayer: function(feature, latlng) {
-        return new L.CircleMarker(latlng, {radius: 10, fillOpacity: 0.85});
-    },
-    onEachFeature: function (feature, layer) {
-        layer.bindPopup(feature.properties.GPSUserName);
-    }
-});*/
-
-
-
 
 $.getJSON("https://raw.githubusercontent.com/timabram/NPSwebcam/gh-pages/geojson_output.geojson", 
 function(data) { addDataToMap(data, mymap); });
